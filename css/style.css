@@ -2,7 +2,7 @@ html {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #0e0f13;
+    background-color: #1e222a;
     font: 20px Fantasque Sans Mono;
     height: 100%;
 }
@@ -28,7 +28,7 @@ p {
 }
 
 p span {
-    color: #b16286;
+    color: #6a3e3f;
     font-weight: bold;
 }
 
@@ -39,7 +39,7 @@ p #logo {
 }
 
 p #cursor {
-    background-color: #b16286;
+    background-color: #6a3e3f;
     animation: blink 2s infinite;
 }
 
@@ -170,7 +170,7 @@ h3::after {
 }
 
 .social {
-    background-color: #b16286;
+    background-color: #6a3e3f;
 }
 
 .download {
