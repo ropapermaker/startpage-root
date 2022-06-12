@@ -2,8 +2,8 @@ html {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #1e222a;
-    font: 20px Fantasque Sans Mono;
+    background-color: #282A36;
+    font: 20px Fira Code;
     height: 100%;
 }
 
@@ -14,7 +14,7 @@ html {
 }
 
 body {
-    background-color: #747e8f;
+    background-color: #51517e;
     border-radius: 14px;
     /* box-shadow: 0px 0px 5px 3px #16182077; */
     flex-direction: column;
@@ -28,7 +28,7 @@ p {
 }
 
 p span {
-    color: #6a3e3f;
+    color: #7d4f9f;
     font-weight: bold;
 }
 
@@ -39,7 +39,7 @@ p #logo {
 }
 
 p #cursor {
-    background-color: #6a3e3f;
+    background-color: #7d4f9f;
     animation: blink 2s infinite;
 }
 
@@ -170,15 +170,15 @@ h3::after {
 }
 
 .social {
-    background-color: #6a3e3f;
+    background-color: #7d4f9f;
 }
 
 .download {
     background-color: #f1524d;
 }
 
-.feed {
-    background-color: #cc241d;
+.school {
+    background-color: #13458b;
 }
 
 .personal {
